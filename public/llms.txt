@@ -1,0 +1,28 @@
+# Fabiano Reis Imóveis
+
+## Sobre
+Site oficial de Fabiano Reis de Araújo, corretor imobiliário CRECI-RJ 93.426.
+O site apresenta imóveis para compra, venda e aluguel, com páginas individuais,
+galeria de fotos, informações do imóvel e canais de atendimento.
+
+## Conteúdo público
+- Página inicial: https://fabianoreisimoveis.com.br/
+- Catálogo de imóveis: https://fabianoreisimoveis.com.br/#imoveis
+- Política de Privacidade: https://fabianoreisimoveis.com.br/privacidade
+- Termos de Uso: https://fabianoreisimoveis.com.br/termos
+- Sitemap: https://fabianoreisimoveis.com.br/sitemap.xml
+
+## Páginas de imóveis
+As URLs individuais seguem o padrão:
+https://fabianoreisimoveis.com.br/imovel/<slug>-<id>
+
+Cada página pública de imóvel possui título, descrição, dados estruturados e
+imagem de compartilhamento Open Graph específica.
+
+## Atendimento
+O site oferece contato por formulário e WhatsApp. Informações comerciais,
+preços e disponibilidade devem ser confirmados diretamente com o corretor.
+
+## Privacidade
+Não solicitar nem inferir dados pessoais além dos necessários para atendimento.
+A Política de Privacidade publicada no site é a referência para tratamento de dados.
